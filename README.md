@@ -1,19 +1,15 @@
 # Hi, I'm Shiva Krishna 👋
 
-<div align="center">
-
 **Full-Stack Developer | AI/GenAI Enthusiast | AI Agent & Automation Specialist**
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40ShivaKrishna--ai-181717?style=for-the-badge&logo=github)](https://github.com/ShivaKrishna-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-uggi--shiva--krishna-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uggi-shiva-krishna-151018369/)
 
-</div>
-
 ---
 
 ## 👨‍💻 About Me
 
-Building intelligent applications, AI agents, and automation systems that solve real-world problems. Passionate about leveraging **GenAI**, **machine learning**, and **modern backend technologies** to create scalable solutions. I specialize in turning complex problems into elegant, automated systems.
+Building intelligent applications, AI agents, and automation systems that solve real-world problems. Passionate about leveraging **GenAI**, **machine learning**, and **modern backend technologies** to create impactful solutions.
 
 💡 **What I do:**
 - Design & develop AI agents powered by LLMs
@@ -25,8 +21,6 @@ Building intelligent applications, AI agents, and automation systems that solve 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,8 +51,6 @@ Building intelligent applications, AI agents, and automation systems that solve 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
 
 ---
 
@@ -94,8 +86,6 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 ## 🎯 Core Skills
 
-<div align="center">
-
 | Category | Skills |
 |----------|--------|
 | **Backend Development** | FastAPI, RESTful APIs, API Design & Architecture, Microservices |
@@ -104,8 +94,6 @@ Building intelligent applications, AI agents, and automation systems that solve 
 | **Machine Learning** | TensorFlow, scikit-learn, Computer Vision, Classification Models, Deep Learning |
 | **Database Design** | PostgreSQL, MongoDB, Data Modeling, Query Optimization |
 | **DevOps & Tools** | Docker, Git, GitHub, CI/CD Pipelines, Automation |
-
-</div>
 
 ---
 
@@ -123,19 +111,11 @@ Currently focusing on:
 
 ## 📫 Let's Connect
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-%40ShivaKrishna--ai-181717?style=for-the-badge&logo=github)](https://github.com/ShivaKrishna-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-uggi--shiva--krishna-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uggi-shiva-krishna-151018369/)
 
 Feel free to reach out if you want to collaborate on AI projects, discuss tech, or just connect!
 
-</div>
-
 ---
 
-<div align="center">
-
 **✨ Always learning. Always building. Turning ideas into intelligent solutions.** ✨
-
-</div>

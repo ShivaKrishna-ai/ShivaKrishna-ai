@@ -8,30 +8,17 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages:** Python • JavaScript • TypeScript
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Backend & APIs:** FastAPI • Node.js
 
-### Frontend
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**Frontend:** React • Streamlit
 
-### AI & Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**AI & Machine Learning:** LangChain • OpenAI • TensorFlow • scikit-learn • Computer Vision
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Databases:** PostgreSQL • Redis • MongoDB
 
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tools & Platforms:** GitHub • Git • Docker
 
 ---
 
@@ -45,6 +32,10 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 **[Organizational Agent](https://github.com/ShivaKrishna-ai/Ogranizational_Agent)** – Workplace automation and productivity AI agent designed for organizational task management
 
+**[Law Agent V1](https://github.com/ShivaKrishna-ai/Law_Agent_V1)** – Initial legal AI assistant for legal information handling and document understanding
+
+**[Law Agent V2.1](https://github.com/ShivaKrishna-ai/Law_Agent_V2.1)** – Enhanced legal AI agent focused on better reasoning and intelligent legal assistance
+
 ### 💼 Business & Automation
 
 **[Job Discipline System](https://github.com/ShivaKrishna-ai/Job_Decipline_System)** – Workflow management system for job discipline tracking and process automation
@@ -53,27 +44,23 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 **[Inventory AI](https://github.com/ShivaKrishna-ai/Inventory_AI)** – AI-powered inventory management solution for stock tracking and operational insights
 
+**[Retailer AI](https://github.com/ShivaKrishna-ai/Retailer_AI)** – AI-powered retail assistant for business insights and intelligent decision-making
+
 ### 🧠 Machine Learning & Vision
 
 **[Fruit Classification and Detection](https://github.com/ShivaKrishna-ai/Fruit_Classification-and-Detection)** – Computer vision project for fruit detection and classification using deep learning
 
----
-
-## 📊 GitHub Statistics
-
-![Shiva Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivakrishna-ai&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakrishna-ai&layout=compact&theme=tokyonight)
+**[Snap Scroller](https://github.com/ShivaKrishna-ai/Snap_Scroller)** – Application focused on smooth scrolling and improved user experience
 
 ---
 
 ## 🎯 Core Skills
 
 - **Backend Development**: FastAPI, RESTful APIs, API Design & Architecture
-- **Frontend Development**: Streamlit for data applications and AI interfaces
+- **Frontend Development**: React, Streamlit for data applications and AI interfaces
 - **AI & GenAI**: LangChain, LLM Integration, RAG Systems, AI Agents, Prompt Engineering
 - **Machine Learning**: TensorFlow, scikit-learn, Computer Vision, Classification Models
-- **Database Design**: PostgreSQL, Data Modeling, Query Optimization
+- **Database Design**: PostgreSQL, MongoDB, Data Modeling, Query Optimization
 - **DevOps & Tools**: Docker, Git, GitHub, CI/CD Pipelines
 
 ---
@@ -92,8 +79,8 @@ Currently focusing on:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uggi-shiva-krishna-151018369/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivaKrishna-ai)
+- **GitHub:** [ShivaKrishna-ai](https://github.com/ShivaKrishna-ai)
+- **LinkedIn:** [uggi-shiva-krishna](https://www.linkedin.com/in/uggi-shiva-krishna-151018369/)
 
 ---
 

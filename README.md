@@ -61,9 +61,9 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaKrishna-ai&show_icons=true&theme=nord&hide_border=true)
+![Shiva Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivakrishna-ai&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaKrishna-ai&layout=compact&theme=nord&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakrishna-ai&layout=compact&theme=tokyonight)
 
 ---
 

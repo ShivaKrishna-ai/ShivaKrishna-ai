@@ -101,7 +101,7 @@ Currently focusing on:
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40ShivaKrishna--ai-181717?style=for-the-badge&logo=github)](https://github.com/ShivaKrishna-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-uggi--shiva--krishna-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uggi-shiva-krishna-151018369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-uggi--shiva--krishna-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uggi-shiva-krishna/)
 
 Feel free to reach out if you want to collaborate on AI projects, discuss tech, or just connect!
 

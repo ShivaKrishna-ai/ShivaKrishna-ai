@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | AI/GenAI Enthusiast | AI Agent & Automation Specialist**
 
-Building intelligent applications, AI agents, and automation systems that solve real-world problems. Passionate about leveraging GenAI, machine learning, and modern backend technologies to create scalable, data-driven solutions.
+Building intelligent applications, AI agents, and automation systems that solve real-world problems. Passionate about leveraging GenAI, machine learning, and modern backend technologies to create scalable solutions.
 
 ---
 
@@ -14,12 +14,9 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -29,7 +26,6 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & Platforms
@@ -51,7 +47,7 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 ### 💼 Business & Automation
 
-**[Job Discipline System](https://github.com/ShivaKrishna-ai/Job_Decipline_System)** – TypeScript-based workflow management system for job discipline tracking and process automation
+**[Job Discipline System](https://github.com/ShivaKrishna-ai/Job_Decipline_System)** – Workflow management system for job discipline tracking and process automation
 
 **[Smart Trading System](https://github.com/ShivaKrishna-ai/Smart_Trading_System)** – Intelligent trading bot with real-time market analysis and automated decision-making
 
@@ -71,13 +67,13 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 ---
 
-## 🎯 Expertise
+## 🎯 Core Skills
 
+- **Backend Development**: FastAPI, RESTful APIs, API Design & Architecture
+- **Frontend Development**: Streamlit for data applications and AI interfaces
 - **AI & GenAI**: LangChain, LLM Integration, RAG Systems, AI Agents, Prompt Engineering
-- **Backend Development**: FastAPI, Node.js, RESTful APIs, Microservices Architecture
-- **Full-Stack Development**: React, TypeScript, Next.js, Express
 - **Machine Learning**: TensorFlow, scikit-learn, Computer Vision, Classification Models
-- **Database Design**: PostgreSQL, MongoDB, Data Modeling, Query Optimization
+- **Database Design**: PostgreSQL, Data Modeling, Query Optimization
 - **DevOps & Tools**: Docker, Git, GitHub, CI/CD Pipelines
 
 ---
@@ -87,9 +83,10 @@ Building intelligent applications, AI agents, and automation systems that solve 
 Currently focusing on:
 - Advanced GenAI architectures and agentic workflows
 - Production-grade FastAPI application design
-- Scalable database architecture patterns
+- Building scalable Streamlit applications for AI/ML products
 - Deep learning and computer vision applications
 - Full-stack AI product development
+- Database design and optimization patterns
 
 ---
 

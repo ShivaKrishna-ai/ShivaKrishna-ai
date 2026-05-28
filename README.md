@@ -24,17 +24,9 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -44,7 +36,6 @@ Building intelligent applications, AI agents, and automation systems that solve 
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & DevOps
@@ -89,10 +80,9 @@ Building intelligent applications, AI agents, and automation systems that solve 
 | Category | Skills |
 |----------|--------|
 | **Backend Development** | FastAPI, RESTful APIs, API Design & Architecture, Microservices |
-| **Frontend Development** | React, Streamlit, UI/UX Integration |
 | **AI & GenAI** | LangChain, LLM Integration, RAG Systems, AI Agents, Prompt Engineering |
 | **Machine Learning** | TensorFlow, scikit-learn, Computer Vision, Classification Models, Deep Learning |
-| **Database Design** | PostgreSQL, MongoDB, Data Modeling, Query Optimization |
+| **Database Design** | PostgreSQL, Data Modeling, Query Optimization |
 | **DevOps & Tools** | Docker, Git, GitHub, CI/CD Pipelines, Automation |
 
 ---
@@ -102,7 +92,6 @@ Building intelligent applications, AI agents, and automation systems that solve 
 Currently focusing on:
 - ⚡ Advanced GenAI architectures and agentic workflows
 - 🏗️ Production-grade FastAPI application design
-- 📊 Building scalable Streamlit applications for AI/ML products
 - 🧠 Deep learning and computer vision applications
 - 🚀 Full-stack AI product development
 - 🗄️ Database design and optimization patterns
